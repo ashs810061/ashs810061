@@ -1,16 +1,17 @@
-## Hi there 👋
+# Pin-Hao Chen
 
-<!--
-**ashs810061/ashs810061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Digital IC / RTL** — Verilog-2001 · SystemVerilog · AXI/AXIS · DMA (SG) · Vivado · PYNQ-ZU
 
-Here are some ideas to get you started:
+### What I do
+Design and verify RTL data paths and controllers on Xilinx SoCs, with emphasis on AXI/AXIS integration, timing closure, and clean testbenches.  
+*FYI:* I’ve prototyped an FPGA-based **FAST corner detection** pipeline; a dedicated repo page will be added later.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- RTL: Verilog-2001, SystemVerilog (FSM, CDC, pipeline registers, handshakes)
+- SoC/FPGA: AXI4/AXIS/AXI-Lite, DMA (MM2S/S2MM, SG), PYNQ-ZU, Vivado/ModelSim
+- Tools & Lang: Python (Jupyter), C++ (OpenCV), Git, Linux
+
+### Links
+- Repos: https://github.com/你的帳號  
+- LinkedIn: https://www.linkedin.com/in/你的ID  
+- Location: Taichung, Taiwan
