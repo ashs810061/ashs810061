@@ -1,16 +1,38 @@
-# Pin-Hao Chen
+# Hi there 👋
 
-**Digital IC / RTL** — Verilog · AXI/AXIS · Vivado · PYNQ-ZU
+I'm **Pin-Hao**, a Digital IC / RTL enthusiast from NCHU EE.  
+I design clean, testable hardware—mostly AXI/AXIS data paths on Zynq platforms—and I enjoy turning algorithms into real-time FPGA pipelines.
 
-### What I do
-Design and verify RTL data paths and controllers on Xilinx SoCs, with emphasis on AXI/AXIS integration, timing closure, and clean testbenches.  
-*FYI:* I’ve prototyped an FPGA-based **FAST corner detection** pipeline; a dedicated repo page will be added later.
+---
 
-### Skills
-- RTL: Verilog-2001, SystemVerilog (FSM, CDC, pipeline registers, handshakes)
-- SoC/FPGA: AXI4/AXIS/AXI-Lite, DMA (MM2S/S2MM, SG), PYNQ-ZU, Vivado/ModelSim
-- Tools & Lang: Python (Jupyter), C++ (OpenCV), Git, Linux
+## ⚡ About Me
+- **Focus:** Verilog/SystemVerilog RTL · AXI4/AXI-Stream/AXI-Lite ·
+- **Toolchain:** Vivado · ModelSim/Questa · Python (Jupyter) · C++/OpenCV · Git/Linux
+- **Recent:** Built an FPGA-based **FAST corner detection** prototype.
 
-### Links
-- Repos: https://github.com/你的帳號  
-- Location: Taichung, Taiwan
+---
+
+## 🧰 Tech Stack
+- RTL: Verilog-2001, SystemVerilog (FSM / CDC / pipelining / handshakes)  
+- FPGA/SoC: PYNQ-ZU / Zynq MPSoC
+- Verification: self-checking TBs, randomized patterns, log-based regressions
+
+---
+
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashs810061&layout=compact&hide=css,html&langs_count=8)
+
+
+
+---
+
+## ⭐ Featured Project
+**FAST Corner Detection Accelerator (FPGA · RTL)**  
+Streaming circle-16 test + NMS, II=1 @ 100 MHz, ORBextractor-friendly output.  
+➡ Repo: https://github.com/ashs810061/YOUR_FAST_REPO  *(details soon)*
+
+---
+
+## 📫 Contact
+- Email: aa0909999300@gmail.com  
+
