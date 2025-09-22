@@ -1,6 +1,6 @@
 # Pin-Hao Chen
 
-**Digital IC / RTL** — Verilog-2001 · SystemVerilog · AXI/AXIS · DMA (SG) · Vivado · PYNQ-ZU
+**Digital IC / RTL** — Verilog · AXI/AXIS · Vivado · PYNQ-ZU
 
 ### What I do
 Design and verify RTL data paths and controllers on Xilinx SoCs, with emphasis on AXI/AXIS integration, timing closure, and clean testbenches.  
@@ -13,5 +13,4 @@ Design and verify RTL data paths and controllers on Xilinx SoCs, with emphasis o
 
 ### Links
 - Repos: https://github.com/你的帳號  
-- LinkedIn: https://www.linkedin.com/in/你的ID  
 - Location: Taichung, Taiwan
