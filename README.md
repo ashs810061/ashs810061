@@ -1,19 +1,19 @@
 # Hi there 👋
 
 I'm **Pin-Hao**, a Digital IC / RTL enthusiast from NCHU EE.  
-I design clean, testable hardware—mostly AXI/AXIS data paths on Zynq platforms—and I enjoy turning algorithms into real-time FPGA pipelines.
+
 
 ---
 
 ## ⚡ About Me
 - **Focus:** Verilog/SystemVerilog RTL · AXI4/AXI-Stream/AXI-Lite ·
-- **Toolchain:** Vivado · ModelSim/Questa · Python (Jupyter) · C++/OpenCV · Git/Linux
+- **Toolchain:** Vivado · ModelSim· Python (Jupyter) · C++/OpenCV · Git/Linux
 - **Recent:** Built an FPGA-based **FAST corner detection** prototype.
 
 ---
 
 ## 🧰 Tech Stack
-- RTL: Verilog-2001, SystemVerilog (FSM / CDC / pipelining / handshakes)  
+- RTL: Verilog, SystemVerilog 
 - FPGA/SoC: PYNQ-ZU / Zynq MPSoC
 - Verification: self-checking TBs, randomized patterns, log-based regressions
 
