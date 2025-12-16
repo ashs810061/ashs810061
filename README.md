@@ -29,7 +29,7 @@ I design clean, testable hardware—mostly AXI/AXIS data paths on Zynq platforms
 ## ⭐ Featured Project
 **FAST Corner Detection Accelerator (FPGA · RTL)**  
 Streaming circle-16 test + NMS, II=1 @ 100 MHz, ORBextractor-friendly output.  
-➡ Repo: https://github.com/ashs810061/YOUR_FAST_REPO  *(details soon)*
+➡ Repo: https://github.com/ashs810061/FPGA-FAST-Corner-Detector
 
 ---
 
