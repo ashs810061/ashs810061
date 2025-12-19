@@ -15,7 +15,7 @@ I'm **Pin-Hao**, a Digital IC / RTL enthusiast from NCHU EE.
 ## 🧰 Tech Stack
 - RTL: Verilog, SystemVerilog 
 - FPGA/SoC: PYNQ-ZU / Zynq MPSoC
-- Verification: self-checking TBs, randomized patterns, log-based regressions
+
 
 ---
 
